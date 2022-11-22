@@ -1,0 +1,167 @@
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+
+           /* <!-- THIS IS head statr --> */
+            .container-fulid{
+                width:100%;
+              }
+            .web-disigner h1{
+              text-align: center;
+              color: white;
+              color: rgb(6, 243, 192);
+              font-weight:900;
+              line-height: 1.9em;
+                }
+            .web-disigner h4{
+              text-align: center;
+              color: rgb(6, 243, 192);
+              font-weight:900;
+              line-height: 1.9em;
+              }
+       /* <!-- this is nav-bar --> */
+            .nav{
+              display: none;
+            }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {
+            
+     /* <!-- THIS IS head statr --> */
+            .web-disigner h1{
+              text-align: center;
+              color: white;
+              color: rgb(6, 243, 192);
+              font-weight:900;
+              line-height: 1.9em;
+              padding-top:50px;
+                }
+            .web-disigner h4{
+              text-align: center;
+              color: rgb(6, 243, 192);
+              font-weight:900;
+              line-height: 1.9em;
+              }
+         /* <!-- this is nav-bar --> */
+            .band-name{
+              text-align: center;
+              padding-top:10px;
+             }
+             .nav{
+             
+             }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+
+          /* <!-- THIS IS head statr --> */
+                .container-fulid{
+                  width:100%;
+                }
+              .web-disigner h1{
+                text-align: center;
+                color: white;
+                color: rgb(6, 243, 192);
+                font-weight:900;
+                line-height: 1.9em;
+                padding-top:50px;
+                  }
+              .web-disigner h4{
+                text-align: center;
+                color: rgb(6, 243, 192);
+                font-weight:900;
+                line-height: 1.9em;
+                 }
+         /* <!-- this is nav-bar --> */
+              .band-name{
+                text-align: center;
+                color: white;
+                font-weight:700;
+                 }
+              .navber .nav .nav-item .nav-link{
+                  display: flex;
+                  flex-direction: column;
+                  padding:5px;
+                 }
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+
+@media only screen and (min-width: 992px) {
+
+        /* <!-- THIS IS head statr --> */
+              .container-fulid{
+                width:100%;
+              }
+            .web-disigner h1{
+              text-align: center;
+              color: white;
+              color: rgb(6, 243, 192);
+              font-weight:900;
+              line-height: 1.9em;
+              padding-top:50px;
+                }
+            .web-disigner h4{
+              text-align: center;
+              color: rgb(6, 243, 192);
+              font-weight:800;
+              line-height: 1.9em;
+
+               }
+
+           /* <!-- this is nav-bar --> */
+              .band-name{
+                color: white;
+                font-weight:700;
+                text-align: center;
+                 }
+              .navber .nav  {
+                  padding-left:2px ;
+             }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (min-width: 1200px) {
+
+
+        /* this is header start  */
+         .container-fulid{
+            width:100%;
+          }
+         .web-disigner h1{
+          color: rgb(6, 243, 192);
+          padding-left:900px;
+          padding-top:100px;
+          font-weight:900;
+          line-height: 1.9em;
+          }
+         .web-disigner h4{
+          color: white;
+          padding-left:900px;
+          color: rgb(6, 243, 192);
+          font-weight:900;
+          line-height: 1.9em;
+          }
+          
+          /* <!-- this is nav-bar --> */
+
+          .band-name{
+              color: white;
+              font-weight:800;
+           }
+          .nav .nav-item .nav-link{
+          
+          }
+
+}

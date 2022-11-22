@@ -1,0 +1,42 @@
+body{
+    background: white;
+}
+h1,h2,h3,h4,h5,h6{
+    
+    color: gray;
+}
+P{
+    color:rgb(80, 77, 77);
+}
+
+ /* this is header start  */
+
+
+ /* <!-- this is nav-bar --> */
+ .band-name{
+    color: white;
+    font-weight:800;
+ }
+ .nav .nav-item .nav-link{
+    color: white;
+    font-size:400;
+    line-height:1.56em;
+    border-radius:10px;
+    padding:10px;
+    margin:10px;
+  }
+
+.nav .nav-item .nav-link:hover{
+    background-color: white;
+    color: blue;
+    transition: all 1s;
+    border-radius:10px;
+
+ }
+ .card-1{
+    margin-top:50px;
+    margin-bottom:30px;
+ }
+ .card-1 p{
+    margin-top:20px;
+ }
