@@ -3,7 +3,7 @@ body{
 }
 h1,h2,h3,h4,h5,h6{
     
-    color: gray;
+    color: rgb(17, 37, 188);
 }
 P{
     color:rgb(80, 77, 77);
@@ -23,7 +23,7 @@ P{
     line-height:1.56em;
     border-radius:10px;
     padding:10px;
-    margin:10px;
+   
   }
 
 .nav .nav-item .nav-link:hover{

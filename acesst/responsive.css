@@ -21,7 +21,8 @@
               }
        /* <!-- this is nav-bar --> */
             .nav{
-              display: none;
+              display: flex;
+              flex-direction: column;
             }
 
 }
@@ -101,6 +102,17 @@
         /* <!-- THIS IS head statr --> */
               .container-fulid{
                 width:100%;
+              }
+              .nav .nav-item .nav-link{
+             
+                font-size:100;
+               
+                padding:05px;
+               
+              }
+            
+              .head-text{
+                text-align: center;
               }
             .web-disigner h1{
               text-align: center;
